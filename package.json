@@ -1,5 +1,5 @@
 {
-  "name": "kb-backend-week-2-startkit",
+  "name": "future-code",
   "version": "1.0.0",
   "description": "mega-hometask",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vanger2607/kb-backend-week-2-startkit"
+    "url": "https://github.com/vanger2607/future_code"
   },
   "author": "",
   "license": "ISC",
